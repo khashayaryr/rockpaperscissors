@@ -2,6 +2,7 @@ import random
 
 
 class RockPaperScissors:
+    """Rock Paper Scissors game class."""
     def __init__(self, ):
         self.choices = ['rock', 'paper', 'scissors']
         self.user_score = 0
